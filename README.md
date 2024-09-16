@@ -37,7 +37,7 @@ Everything was built in blueprints only
 - Shooting
 - Health / Death
 - Enemy AI
-- Win / Lose conditions
+- Win / Lose 
 
 ## Game Screenshot
 
