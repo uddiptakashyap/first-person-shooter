@@ -14,10 +14,11 @@ This project is a **First-Person Shooter (FPS)** Game developed using Unreal Eng
 
 To run this project, follow these steps:
 
-1. Download the project folder from the [Google Drive link](https://drive.google.com/drive/folders/1QdJIcbW3hFL_L9D67USe9xSeKArmMHEz?usp=drive_link).(Content > All ASSETS.txt > Google Drive link)
-2. Download the file to your local machine.
-3. Open the project file (`.uproject`) in Unreal Engine 5.
-4. Launch the game from the editor or package it for your platform of choice.
+1. Ensure you have **Unreal Engine 5** installed. You can download it from the [Epic Games Launcher](https://www.unrealengine.com/en-US/download).
+2. Download the project folder from the [Google Drive link](https://drive.google.com/drive/folders/1QdJIcbW3hFL_L9D67USe9xSeKArmMHEz?usp=drive_link).(Content > All ASSETS.txt > Google Drive link)
+3. Download the file to your local machine.
+4. Open the project file (`.uproject`) in Unreal Engine 5.
+5. Launch the game from the editor or package it for your platform of choice.
 
 ## Controls 
 
